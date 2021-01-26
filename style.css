@@ -1,0 +1,38 @@
+.hero-text{
+    font-size: 50px;
+    font-weight: 700;
+}
+.d2-navbar-btn{
+    background: #FB6973;
+    border-radius: 30px;
+    border-style: none; 
+    font-weight: 600;
+    padding-left: 30px!important;
+    padding-right: 30px!important;
+    transition: all ease .3s;
+}
+.d2-navbar-btn:hover{
+    background: rgb(245, 184, 188);
+}
+.zero-text{
+    font-size: 30px;
+}
+
+.section-header{
+    font-size: 50px;
+}
+
+.mt-section{
+    margin-top: 250px;
+}
+
+.section-header-contact{
+    font-size: 50px;
+}
+
+.d2-cs-input{
+    width: 100%;
+    border: 1px solid transparent;
+    background: #FBFBFB;
+    margin-bottom: 20px!important;
+}
