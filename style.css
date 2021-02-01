@@ -7,9 +7,14 @@
     border-radius: 30px;
     border-style: none; 
     font-weight: 600;
-    padding-left: 30px!important;
-    padding-right: 30px!important;
+    padding: 20px 30px !important;
     transition: all ease .3s;
+    line-height: 0;
+}
+
+.d2-navbar-btn:first-child{
+    padding-top: 16px !important;
+    margin-top: 2px;
 }
 .d2-navbar-btn:hover{
     background: rgb(245, 184, 188);
@@ -35,4 +40,10 @@
     border: 1px solid transparent;
     background: #FBFBFB;
     margin-bottom: 20px!important;
+}
+
+.feature-icon{
+    height: auto;
+    width: 50px;
+    align-self: center;
 }
